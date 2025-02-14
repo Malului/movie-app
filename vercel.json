@@ -4,5 +4,6 @@
         "NODE_ENV": "production"
       }
     },
-    "framework": "vite"
+    "framework": "vite",
+    "installCommand": "npm install --production=false"
   }
